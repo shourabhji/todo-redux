@@ -15,7 +15,7 @@ This is a simple Todo app built using React, React Redux Toolkit, and Tailwind C
 
 You can try the live demo of the Todo app by visiting the following link:
 
-[Todo App Demo](https://your-todo-app-demo-link.com)
+https://todo-redux-drab-iota.vercel.app/
 
 ## Installation
 
